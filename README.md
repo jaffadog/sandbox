@@ -1,2 +1,2 @@
 # sandbox
-Just a sandbox for testing gihub functionality
+Just a sandbox for testing gihub functionality... and play!
