@@ -1,18 +1,15 @@
-# .github/release.yml
-
 changelog:
-  exclude:
-    labels:
-      - ignore-for-release
   categories:
-    - title: Breaking Changes 🛠
+    - title: 🚀 Features
       labels:
-        - Semver-Major
-        - breaking-change
-    - title: Exciting New Features 🎉
+        - feat
+    - title: 🐛 Fixes
       labels:
-        - Semver-Minor
-        - enhancement
-    - title: Other Changes
+        - fix
+    - title: 🧰 Maintenance
       labels:
-        - "*"
+        - chore
+        - refactor
+    - title: 📚 Docs
+      labels:
+        - docs
